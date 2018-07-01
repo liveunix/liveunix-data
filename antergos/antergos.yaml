@@ -1,6 +1,8 @@
 name: antergos
 homepage: https://antergos.org
 description: "a distribution based on arch linux."
+arch:
+  - x86_64
 release_model:
   - rolling
 flavours:
