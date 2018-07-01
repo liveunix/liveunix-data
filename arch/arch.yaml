@@ -1,0 +1,9 @@
+name: arch linux
+homepage: https://archlinux.org
+description: "a lightweight and flexible linux® distribution that tries to keep it simple."
+arch:
+  - x86_64
+release_model:
+  - rolling
+iso:
+  2018.06.01: http://mirror.rackspace.com/archlinux/iso/2018.06.01/archlinux-2018.06.01-x86_64.iso
