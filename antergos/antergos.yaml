@@ -1,15 +1,29 @@
-name: antergos
+name: Antergos
 homepage: https://antergos.org
-description: "a distribution based on arch linux."
+summary: "A distribution based on Arch Linux."
+wiki: https://antergos.com/wiki
+bugtracker: https://kaosx.us/docs/bugs
+git: https://github.com/antergos
+based_on: Arch Linux
+installation:
+  - GUI
+latest_version: 18.6
+difficulty: Beginner
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - Pacman
 arch:
   - x86_64
 release_model:
-  - rolling
+  - Rolling
 flavours:
-  - live
-  - minimal
+  - Live
+  - Minimal
 iso:
   x86_64:
     18.6:
-      live: https://antergos.com/download/antergos-live-iso/
-      minimal: https://antergos.com/download/antergos-minimal-iso/
+      Live: https://antergos.com/download/antergos-live-iso/
+      Minimal: https://antergos.com/download/antergos-minimal-iso/
