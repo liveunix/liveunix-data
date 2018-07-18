@@ -1,9 +1,27 @@
-name: arch linux
+name: Arch Linux
 homepage: https://archlinux.org
-description: "a lightweight and flexible linux® distribution that tries to keep it simple."
+summary: A lightweight and flexible Linux distribution that tries to Keep It Simple.
+wiki: https://wiki.archlinux.org
+bugtracker: https://bugs.archlinux.org
+git: https://git.archlinux.org
+forum: https://bbs.archlinux.org
+packages: https://www.archlinux.org/packages
+mailing_lists: https://lists.archlinux.org
+blog: https://planet.archlinux.org/
+installation:
+  - CLI
+latest_version: 2018.06.01
+difficulty: Advanced
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - Pacman
 arch:
   - x86_64
 release_model:
-  - rolling
+  - Rolling
 iso:
-  2018.06.01: http://mirror.rackspace.com/archlinux/iso/2018.06.01/archlinux-2018.06.01-x86_64.iso
+  x86_64:
+    2018.06.01: http://mirror.rackspace.com/archlinux/iso/2018.06.01/archlinux-2018.06.01-x86_64.iso
