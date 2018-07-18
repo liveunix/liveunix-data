@@ -1,0 +1,72 @@
+# Distro or operating system name, include its complete name (required)
+name: Arch Linux
+# Homepage (required)
+homepage: https://archlinux.org
+# A simple summary, must not be more than 100 chars (required)
+summary: A lightweight and flexible Linux distribution that tries to Keep It Simple.
+# Long and detailed description, can be any length
+description: The design approach of the development team follows the KISS principle ("keep it simple, stupid") as the general guideline, and focuses on elegance, code correctness, minimalism and simplicity, and expects the user to be willing to make some effort to understand the system's operation.[7] A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.
+# Documentation site. It's different from wiki
+docs: -
+# Wiki and guides
+wiki: https://wiki.archlinux.org
+# Where to report bugs
+bugtracker: https://bugs.archlinux.org
+# Does it have a git repository?
+git: https://git.archlinux.org
+# Forum to talk about issues and get help
+forum: https://bbs.archlinux.org
+# Is there an online packages list?
+packages: https://www.archlinux.org/packages
+# Mailing lists to discuss about isssues and about the system in general
+mailing_lists: https://lists.archlinux.org
+# Updates on the operating system
+blog: https://planet.archlinux.org/
+# The operating system it was based or forked
+based_on: -
+# Does it need to be installed from CLI or from GUI?
+# possible values: CLI or GUI in uppercase (required)
+installation: GUI
+# The last version according to the data in iso and stage3
+latest_version: 17.1.10
+# Degree of difficulty (required)
+difficulty: Intermediate
+# Default desktop environment or window manager
+default_userspace: -
+# Which init does it support?
+init:
+  - Systemd
+# Which libc does it use?
+libc:
+  - Glibc
+# List all package manager compatible
+package_manager:
+  - Pacman
+# List every arch that is compatible and that is listed by either iso or stage3
+arch:
+  - x86_64
+# Rolling, Stable or both
+release_model:
+  - Rolling
+# List of the flavours or different version that can be found (Array)
+flavours: -
+# If there are flavours the order is
+iso:
+  arch:
+    version1: link
+    version2: link
+  arch2:
+    version1: link
+# Otherwise
+iso:
+  arch1:
+    version1:
+      flavour1: link
+      flavour2: link
+    version2:
+      flavour1: link
+  arch2:
+    version1:
+      flavour1: link
+# The same syntax as `iso` must be used here
+stage3: -

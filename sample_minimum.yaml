@@ -1,0 +1,17 @@
+# Distro or operating system name, include its complete name
+name: Arch Linux
+# Homepage
+homepage: https://archlinux.org
+# A simple summary, must not be more than 100 chars
+summary: A lightweight and flexible Linux distribution that tries to Keep It Simple.
+# possible values: CLI or GUI in uppercase
+installation: GUI
+# Degree of difficulty (required)
+difficulty: Intermediate
+# If there are flavours the order is
+iso:
+  arch:
+    version1: link
+    version2: link
+  arch2:
+    version1: link
