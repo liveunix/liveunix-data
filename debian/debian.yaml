@@ -1,0 +1,83 @@
+name: Debian
+homepage: https://www.debian.org
+summary: a Unix-like computer operating system that is composed entirely of free software
+docs: https://www.debian.org/doc/
+wiki: https://wiki.debian.org/
+bugtracker: https://www.debian.org/Bugs/
+forum: http://forums.debian.net/
+packages: https://www.debian.org/distrib/packages
+mailing_lists: https://lists.debian.org/
+blog: https://planet.debian.org/
+installation:
+  - CLI
+  - GUI
+latest_version: 9.4.0
+difficulty: Intermediate
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - apt
+arch:
+  - amd64
+  - arm64
+  - armel
+  - armhf
+  - i386
+  - mips
+  - mips64el
+  - ppc64el
+  - s390x
+flavours:
+  - dvd
+  - netinst
+  - netinst-xfce
+release_model:
+  - Stable
+iso:
+  amd64:
+    9.5.0:
+      dvd: https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-9.5.0-amd64-DVD-1.iso
+      netinst: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.5.0-amd64-netinst.iso
+      netinst-xfce: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.5.0-amd64-xfce-CD-1.iso
+  arm64:
+    9.5.0:
+      dvd: https://cdimage.debian.org/debian-cd/current/arm64/iso-dvd/debian-9.5.0-arm64-DVD-1.iso
+      netinst: https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/debian-9.5.0-arm64-netinst.iso
+      netinst-xfce: https://cdimage.debian.org/debian-cd/current/arm64/iso-cd/debian-9.5.0-arm64-xfce-CD-1.iso
+  armel:
+    9.5.0:
+      dvd: https://cdimage.debian.org/debian-cd/current/armel/iso-dvd/debian-9.5.0-armel-DVD-1.iso
+      netinst: https://cdimage.debian.org/debian-cd/current/armel/iso-cd/debian-9.5.0-armel-netinst.iso
+      netinst-xfce: https://cdimage.debian.org/debian-cd/current/armel/iso-cd/debian-9.5.0-armel-xfce-CD-1.iso
+  armhf:
+    9.5.0:
+      dvd: https://cdimage.debian.org/debian-cd/current/armhf/iso-dvd/debian-9.5.0-armhf-DVD-1.iso
+      netinst: https://cdimage.debian.org/debian-cd/current/armhf/iso-cd/debian-9.5.0-armhf-netinst.iso
+      netinst-xfce: https://cdimage.debian.org/debian-cd/current/armhf/iso-cd/debian-9.5.0-armhf-xfce-CD-1.iso
+  i386:
+    9.5.0:
+      dvd: https://cdimage.debian.org/debian-cd/current/i386/iso-dvd/debian-9.5.0-i386-DVD-1.iso
+      netinst: https://cdimage.debian.org/debian-cd/current/i386/iso-cd/debian-9.5.0-i386-netinst.iso
+      netinst-xfce: https://cdimage.debian.org/debian-cd/current/i386/iso-cd/debian-9.5.0-i386-xfce-CD-1.iso
+  mips:
+    9.5.0:
+      dvd: https://cdimage.debian.org/debian-cd/current/mips/iso-dvd/debian-9.5.0-mips-DVD-1.iso
+      netinst: https://cdimage.debian.org/debian-cd/current/mips/iso-cd/debian-9.5.0-mips-netinst.iso
+      netinst-xfce: https://cdimage.debian.org/debian-cd/current/mips/iso-cd/debian-9.5.0-mips-netinst.iso
+  mips64el:
+    9.5.0:
+      dvd: https://cdimage.debian.org/debian-cd/current/mips64el/iso-dvd/debian-9.5.0-mips64el-DVD-1.iso
+      netinst: https://cdimage.debian.org/debian-cd/current/mips64el/iso-cd/debian-9.5.0-mips64el-netinst.iso
+      netinst-xfce: https://cdimage.debian.org/debian-cd/current/mips64el/iso-cd/debian-9.5.0-mips64el-xfce-CD-1.iso
+  ppc64el:
+    9.5.0:
+      dvd: https://cdimage.debian.org/debian-cd/current/ppc64el/iso-dvd/debian-9.5.0-ppc64el-DVD-1.iso
+      netinst: https://cdimage.debian.org/debian-cd/current/ppc64el/iso-cd/debian-9.5.0-ppc64el-netinst.iso
+      netinst-xfce: https://cdimage.debian.org/debian-cd/current/ppc64el/iso-cd/debian-9.5.0-ppc64el-xfce-CD-1.iso
+  s390x:
+    9.5.0:
+      dvd: https://cdimage.debian.org/debian-cd/current/s390x/iso-dvd/debian-9.5.0-s390x-DVD-1.iso
+      netinst: https://cdimage.debian.org/debian-cd/current/s390x/iso-cd/debian-9.5.0-s390x-netinst.iso
+      netinst-xfce: https://cdimage.debian.org/debian-cd/current/s390x/iso-cd/debian-9.5.0-s390x-xfce-CD-1.iso
