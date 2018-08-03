@@ -1,0 +1,23 @@
+name: Exherbo
+homepage: https://exherbo.org
+summary: "Source based Linux distribution with up-front configuration."
+docs: https://exherbo.org/docs
+bugtracker: https://bugs.exherbo.org
+git: https://gitlab.exherbo.org
+installation:
+  - CLI
+latest_version: 20180701
+difficulty: LFS
+init:
+  - Systemd
+  - OpenRC
+libc:
+  - Glibc
+  - Musl
+arch:
+  - x86_64:
+    - x86_64-pc-linux-gnu
+    - x86_64-pc-linux-musl
+  - i686-pc-linux-gnu
+release_model:
+  - Rolling

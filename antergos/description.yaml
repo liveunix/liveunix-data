@@ -22,8 +22,3 @@ release_model:
 flavours:
   - Live
   - Minimal
-iso:
-  x86_64:
-    18.6:
-      Live: https://antergos.com/download/antergos-live-iso/
-      Minimal: https://antergos.com/download/antergos-minimal-iso/

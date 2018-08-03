@@ -1,0 +1,7 @@
+9.5.0:
+  dvd:
+    url: https://cdimage.debian.org/debian-cd/current/mips/iso-dvd/debian-9.5.0-mips-DVD-1.iso
+  netinst:
+    url: https://cdimage.debian.org/debian-cd/current/mips/iso-cd/debian-9.5.0-mips-netinst.iso
+  netinst-xfce:
+    url: https://cdimage.debian.org/debian-cd/current/mips/iso-cd/debian-9.5.0-mips-netinst.iso

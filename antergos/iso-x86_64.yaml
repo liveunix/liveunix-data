@@ -1,0 +1,11 @@
+18.7:
+  Live:
+    md5sum: 1029f9bcebca554cce6d1fdc42dd8a6a
+    signature: http://mirrors.antergos.com/iso/release/antergos-18.7-x86_64.iso.sig
+    size: 1.9G
+    url: https://antergos.com/download/antergos-live-iso/
+  Minimal:
+    md5sum: b9a982134b5591f13ef1a44a3020e440
+    signature: http://mirrors.antergos.com/iso/release/antergos-minimal-18.7-x86_64.iso.sig
+    size: 726M
+    url: https://antergos.com/download/antergos-minimal-iso/

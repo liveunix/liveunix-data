@@ -1,0 +1,21 @@
+name: Raspbian
+homepage: https://raspbian
+summary: "A free operating system based on Debian optimized for the Raspberry Pi hardware."
+installation:
+  - CLI
+based_on: Debian
+difficulty: Intermediate
+latest_version: 2018-06-27
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - Apt
+arch:
+  - ARM
+flavours:
+  - Stretch
+  - Lite
+release_model:
+  - Stable

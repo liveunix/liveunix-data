@@ -1,0 +1,40 @@
+name: Debian
+homepage: https://www.debian.org summary: a Unix-like computer operating system that is composed entirely of free software docs: https://www.debian.org/doc/
+wiki: https://wiki.debian.org/
+bugtracker: https://www.debian.org/Bugs/
+forum: http://forums.debian.net/
+packages: https://www.debian.org/distrib/packages
+mailing_lists: https://lists.debian.org/
+blog: https://planet.debian.org/
+installation:
+  - CLI
+  - GUI
+latest_version: 9.4.0
+difficulty: Intermediate
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - apt
+arch:
+  - amd64
+  - arm64
+  - armel
+  - armhf
+  - i386
+  - mips
+  - mips64el
+  - ppc64el
+  - s390x
+flavours:
+  - Cinnamon
+  - DVD
+  - GNOME
+  - KDE
+  - LXDE
+  - Mate
+  - netinst
+  - netinst-xfce
+release_model:
+  - Stable

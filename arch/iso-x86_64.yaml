@@ -1,0 +1,18 @@
+2018.06.01:
+  md5sum: https://archlinux.beccacervello.it/archlinux/iso/2018.06.01/md5sums.txt
+  sha1sum: https://archlinux.beccacervello.it/archlinux/iso/2018.06.01/sha1sums.txt
+  signature: https://archlinux.beccacervello.it/archlinux/iso/2018.06.01/archlinux-2018.06.01-x86_64.iso.sig
+  size: 571M
+  url: http://mirror.rackspace.com/archlinux/iso/2018.06.01/archlinux-2018.06.01-x86_64.iso
+2018.07.01:
+  md5sum: https://archlinux.beccacervello.it/archlinux/iso/2018.07.01/md5sums.txt
+  sha1sum: https://archlinux.beccacervello.it/archlinux/iso/2018.07.01/sha1sums.txt
+  signature: https://archlinux.beccacervello.it/archlinux/iso/2018.07.01/archlinux-2018.07.01-x86_64.iso.sig
+  size: 574M
+  url: https://archlinux.beccacervello.it/archlinux/iso/2018.07.01/archlinux-2018.07.01-x86_64.iso
+2018.08.01:
+  md5sum: http://mirror.rackspace.com/archlinux/iso/2018.08.01/md5sums.txt
+  sha1sum: http://mirror.rackspace.com/archlinux/iso/2018.08.01/sha1sums.txt
+  signature: http://mirror.rackspace.com/archlinux/iso/2018.08.01/archlinux-2018.08.01-x86_64.iso.sig
+  size: 573M
+  url: http://mirror.rackspace.com/archlinux/iso/2018.08.01/archlinux-2018.08.01-x86_64.iso

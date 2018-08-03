@@ -1,0 +1,8 @@
+20180627:
+  sha1sum: https://www.somas.is/dl/stages/sha1sum
+  sha256sum: https://www.somas.is/dl/stages/sha256sum
+  url: https://www.somas.is/dl/stages/exherbo-x86_64-pc-linux-musl-20180627.tar.xz
+20160721:
+  sha1sum: https://www.somas.is/dl/stages/sha1sum
+  sha256sum: https://www.somas.is/dl/stages/sha256sum
+  url: https://www.somas.is/dl/stages/exherbo-x86_64-pc-linux-musl-20160721.tar.xz

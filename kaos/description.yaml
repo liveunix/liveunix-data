@@ -1,6 +1,6 @@
 name: KaOS
 homepage: https://kaosx.us
-summary: "An independent distribution focused on Qt and KDE."
+summary: An independent distribution focused on Qt and KDE.
 docs: https://kaosx.us/docs
 installation:
   - GUI
@@ -11,6 +11,3 @@ arch:
   - x86_64
 release_model:
   - Rolling
-iso:
-  x86_64:
-    2018.06: https://sourceforge.net/projects/kaosx/files/ISO/KaOS-2018.06-x86_64.iso

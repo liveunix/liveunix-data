@@ -1,0 +1,7 @@
+9.5.0:
+  dvd:
+    url: https://cdimage.debian.org/debian-cd/current/ppc64el/iso-dvd/debian-9.5.0-ppc64el-DVD-1.iso
+  netinst:
+    url: https://cdimage.debian.org/debian-cd/current/ppc64el/iso-cd/debian-9.5.0-ppc64el-netinst.iso
+  netinst-xfce:
+    url: https://cdimage.debian.org/debian-cd/current/ppc64el/iso-cd/debian-9.5.0-ppc64el-xfce-CD-1.iso

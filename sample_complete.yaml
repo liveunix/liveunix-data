@@ -22,7 +22,11 @@ packages: https://www.archlinux.org/packages
 mailing_lists: https://lists.archlinux.org
 # Updates on the operating system
 blog: https://planet.archlinux.org/
-# The operating system it was based or forked
+# Developer(s) profiles, it's a collection composed by [name, url]
+developers:
+  - name: Arch Linux Developers
+    url: https://www.archlinux.org/people/developers/
+# The operating system it was based on or forked
 based_on: -
 # Does it need to be installed from CLI or from GUI?
 # possible values: CLI or GUI in uppercase (required)
@@ -42,6 +46,10 @@ libc:
 # List all package manager compatible
 package_manager:
   - Pacman
+# Eventual tags
+tags:
+  - customizable
+  - desktop
 # List every arch that is compatible and that is listed by either iso or stage3
 arch:
   - x86_64
@@ -50,23 +58,3 @@ release_model:
   - Rolling
 # List of the flavours or different version that can be found (Array)
 flavours: -
-# If there are flavours the order is
-iso:
-  arch:
-    version1: link
-    version2: link
-  arch2:
-    version1: link
-# Otherwise
-iso:
-  arch1:
-    version1:
-      flavour1: link
-      flavour2: link
-    version2:
-      flavour1: link
-  arch2:
-    version1:
-      flavour1: link
-# The same syntax as `iso` must be used here
-stage3: -

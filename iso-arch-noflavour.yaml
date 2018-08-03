@@ -1,0 +1,21 @@
+# Version release
+version1:
+  # Check integrity of the iso donwloaded (ooptional)
+  # Can be both a string representing the value and a link to the file containing it
+  md5sum:
+  # Url of the file containing the signature of the value below (optional)
+  md5sum_signature:
+  sha1sum:
+  sha1sum_signature:
+  sha256sum:
+  sha256sum_signature:
+  sha512sum:
+  sha512sum_signature:
+  # Link to the signature file (optional)
+  signature:
+  # Size (optional)
+  size: 4G
+  # Url to the specific version of the iso
+  url: https://archlinux.org/download/version1
+version2:
+  url: https://archlinux.org/download/version2

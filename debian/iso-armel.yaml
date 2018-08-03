@@ -1,0 +1,7 @@
+9.5.0:
+  dvd:
+    url: https://cdimage.debian.org/debian-cd/current/armel/iso-dvd/debian-9.5.0-armel-DVD-1.iso
+  netinst:
+    url: https://cdimage.debian.org/debian-cd/current/armel/iso-cd/debian-9.5.0-armel-netinst.iso
+  netinst-xfce:
+    url: https://cdimage.debian.org/debian-cd/current/armel/iso-cd/debian-9.5.0-armel-xfce-CD-1.iso

@@ -1,0 +1,7 @@
+9.5.0:
+  dvd:
+    url: https://cdimage.debian.org/debian-cd/current/armhf/iso-dvd/debian-9.5.0-armhf-DVD-1.iso
+  netinst:
+    url: https://cdimage.debian.org/debian-cd/current/armhf/iso-cd/debian-9.5.0-armhf-netinst.iso
+  netinst-xfce:
+    url: https://cdimage.debian.org/debian-cd/current/armhf/iso-cd/debian-9.5.0-armhf-xfce-CD-1.iso

@@ -1,0 +1,12 @@
+20180618:
+  sha1sum: http://dev.exherbo.org/stages/sha1sum
+  sha256sum: http://dev.exherbo.org/stages/sha256sum
+  url: https://dev.exherbo.org/stages/exherbo-i686-pc-linux-gnu-20180618.tar.xz
+20171201:
+  sha1sum: http://dev.exherbo.org/stages/sha1sum
+  sha256sum: http://dev.exherbo.org/stages/sha256sum
+  url: https://dev.exherbo.org/stages/exherbo-i686-pc-linux-gnu-20171201.tar.xz
+20171129:
+  sha1sum: http://dev.exherbo.org/stages/sha1sum
+  sha256sum: http://dev.exherbo.org/stages/sha256sum
+  url: https://dev.exherbo.org/stages/exherbo-i686-pc-linux-gnu-20171129.tar.xz

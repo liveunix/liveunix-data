@@ -8,10 +8,3 @@ summary: A lightweight and flexible Linux distribution that tries to Keep It Sim
 installation: GUI
 # Degree of difficulty (required)
 difficulty: Intermediate
-# If there are flavours the order is
-iso:
-  arch:
-    version1: link
-    version2: link
-  arch2:
-    version1: link

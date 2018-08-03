@@ -1,0 +1,28 @@
+17.1.10:
+  Budgie:
+    url: https://osdn.net/dl/manjaro-community/manjaro-budgie-17.1.10-stable-x86_64.iso
+  Cinnamon:
+    url: https://osdn.net/dl/manjaro-community/manjaro-cinnamon-17.1.10-stable-x86_64.iso
+  Deepin:
+    url: https://osdn.net/dl/manjaro-community/manjaro-deepin-17.1.10-stable-x86_64.iso
+  Gnome:
+    url: https://osdn.net/dl/manjaro/manjaro-gnome-17.1.10-stable-x86_64.iso
+  KDE:
+    url: https://osdn.net/dl/manjaro/manjaro-kde-17.1.10-stable-x86_64.iso
+  i3:
+    url: https://osdn.net/dl/manjaro-community/manjaro-i3-17.1.9-stable-x86_64.iso
+  XFCE:
+    url: https://osdn.net/dl/manjaro/manjaro-xfce-17.1.10-stable-x86_64.iso
+17.1.9.2:
+  Openbox:
+    url: https://osdn.net/dl/manjaro-community/manjaro-openbox-17.1.9.2-stable-x86_64.iso
+17.1.8:
+  LXDE:
+    url: https://osdn.net/dl/manjaro-community/manjaro-lxde-17.1.8-stable-x86_64.iso
+  Mate:
+    url: https://osdn.net/dl/manjaro-community/manjaro-mate-17.1.10-stable-x86_64.iso
+17.1.7:
+  Awesome:
+    url: https://osdn.net/dl/manjaro-community/manjaro-awesome-17.1.7-stable-x86_64.iso
+  Bspwm:
+    url: https://osdn.net/dl/manjaro-community/manjaro-bspwm-17.1.7-stable-x86_64.iso
