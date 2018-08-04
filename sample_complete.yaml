@@ -5,7 +5,9 @@ homepage: https://archlinux.org
 # A simple summary, must not be more than 100 chars (required)
 summary: A lightweight and flexible Linux distribution that tries to Keep It Simple.
 # Long and detailed description, can be any length
-description: The design approach of the development team follows the KISS principle ("keep it simple, stupid") as the general guideline, and focuses on elegance, code correctness, minimalism and simplicity, and expects the user to be willing to make some effort to understand the system's operation.[7] A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.
+description: The design approach of the development team follows the KISS principle ("keep it simple, stupid") as the general guideline, and focuses on elegance, code correctness, minimalism and simplicity, and expects the user to be willing to make some effort to understand the system's operation. A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.
+# Where to download the system
+download: https://archlinux.org/download
 # Documentation site. It's different from wiki
 docs: -
 # Wiki and guides
@@ -30,7 +32,8 @@ developers:
 based_on: -
 # Does it need to be installed from CLI or from GUI?
 # possible values: CLI or GUI in uppercase (required)
-installation: GUI
+installation:
+  - GUI
 # The last version according to the data in iso and stage3
 latest_version: 17.1.10
 # Degree of difficulty (required)
