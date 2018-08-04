@@ -1,6 +1,8 @@
 name: Arch Linux
 homepage: https://archlinux.org
 summary: A lightweight and flexible Linux distribution that tries to Keep It Simple.
+description: The design approach of the development team follows the KISS principle ("keep it simple, stupid") as the general guideline, and focuses on elegance, code correctness, minimalism and simplicity, and expects the user to be willing to make some effort to understand the system's operation. A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.
+download: https://archlinux.org/download
 wiki: https://wiki.archlinux.org
 bugtracker: https://bugs.archlinux.org
 git: https://git.archlinux.org
@@ -8,6 +10,9 @@ forum: https://bbs.archlinux.org
 packages: https://www.archlinux.org/packages
 mailing_lists: https://lists.archlinux.org
 blog: https://planet.archlinux.org/
+developers:
+  - name: Arch Linux Developers
+    url: https://www.archlinux.org/people/developers/
 installation:
   - CLI
 latest_version: 2018.06.01
@@ -18,6 +23,9 @@ libc:
   - Glibc
 package_manager:
   - Pacman
+tags:
+  - customizable
+  - desktop
 arch:
   - x86_64
 release_model:
