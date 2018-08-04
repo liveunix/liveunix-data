@@ -1,5 +1,7 @@
 name: Debian
-homepage: https://www.debian.org summary: a Unix-like computer operating system that is composed entirely of free software docs: https://www.debian.org/doc/
+homepage: https://www.debian.org
+summary: a Unix-like computer operating system that is composed entirely of free software
+docs: https://www.debian.org/doc/
 wiki: https://wiki.debian.org/
 bugtracker: https://www.debian.org/Bugs/
 forum: http://forums.debian.net/
