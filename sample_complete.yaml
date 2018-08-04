@@ -6,16 +6,26 @@ homepage: https://archlinux.org
 summary: A lightweight and flexible Linux distribution that tries to Keep It Simple.
 # Long and detailed description, can be any length
 description: The design approach of the development team follows the KISS principle ("keep it simple, stupid") as the general guideline, and focuses on elegance, code correctness, minimalism and simplicity, and expects the user to be willing to make some effort to understand the system's operation. A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.
-# Where to download the system
-download: https://archlinux.org/download
 # Getting started page
 getting_started: -
+# Where to download the system
+download: https://archlinux.org/download
+# About page
+about: -
+# FAQ
+faq: -
 # Documentation site. It's different from wiki
 docs: -
 # Wiki and guides
 wiki: https://wiki.archlinux.org
+# Instruction to upgrade between version
+upgrade: -
 # Where to report bugs
 bugtracker: https://bugs.archlinux.org
+# known issues
+issues: -
+# Contact the developers
+contact: https://tails.boum.org/about/contact/
 # Does it have a git repository?
 git: https://git.archlinux.org
 # Forum to talk about issues and get help
@@ -24,12 +34,18 @@ forum: https://bbs.archlinux.org
 packages: https://www.archlinux.org/packages
 # Mailing lists to discuss about isssues and about the system in general
 mailing_lists: https://lists.archlinux.org
+# News related
+news: -
 # Updates on the operating system
 blog: https://planet.archlinux.org/
 # Developer(s) profiles, it's a collection composed by [name, url]
 developers:
   - name: Arch Linux Developers
     url: https://www.archlinux.org/people/developers/
+# Help and support page
+help: -
+# How to contribute
+contribute: -
 # Donate page
 donate: -
 # The operating system it was based on or forked
