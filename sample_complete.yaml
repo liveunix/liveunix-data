@@ -8,6 +8,8 @@ summary: A lightweight and flexible Linux distribution that tries to Keep It Sim
 description: The design approach of the development team follows the KISS principle ("keep it simple, stupid") as the general guideline, and focuses on elegance, code correctness, minimalism and simplicity, and expects the user to be willing to make some effort to understand the system's operation. A package manager written specifically for Arch Linux, pacman, is used to install, remove and update software packages.
 # Where to download the system
 download: https://archlinux.org/download
+# Getting started page
+getting_started: -
 # Documentation site. It's different from wiki
 docs: -
 # Wiki and guides
@@ -28,6 +30,8 @@ blog: https://planet.archlinux.org/
 developers:
   - name: Arch Linux Developers
     url: https://www.archlinux.org/people/developers/
+# Donate page
+donate: -
 # The operating system it was based on or forked
 based_on: -
 # Does it need to be installed from CLI or from GUI?
