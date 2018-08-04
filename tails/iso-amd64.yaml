@@ -1,0 +1,4 @@
+3.8:
+  signature: https://tails.boum.org/tails-signing.key
+  size: 1.2G
+  url: https://tails-mirror.profszone.xyz/tails/stable/tails-amd64-3.8/tails-amd64-3.8.iso

@@ -1,0 +1,37 @@
+name: Tails
+homepage: https://tails.boum.org/
+summary: It is a live operating system that you can start on almost any computer from a USB stick or a DVD.
+getting_started: https://tails.boum.org/getting_started/
+download: https://tails.boum.org/install/
+about: https://tails.boum.org/about/
+faq: https://tails.boum.org/support/faq/
+docs: https://tails.boum.org/doc/
+bugtracker: https://labs.riseup.net/code/projects/tails/issues
+issues: https://tails.boum.org/support/known_issues/
+mailing_lists: https://mailman.boum.org/pipermail/
+news: https://tails.boum.org/news/
+help: https://tails.boum.org/support/
+contribute: https://tails.boum.org/contribute/
+donate: https://tails.boum.org/donate/
+based_on: Debian
+installation:
+  - GUI
+latest_version: 3.8
+difficulty: Advanced
+default_userspace: GNOME
+init:
+  - Systemd
+# Which libc does it use?
+libc:
+  - Glibc
+package_manager:
+  - apt
+tags:
+  - desktop
+  - live
+  - privacy
+  - security
+arch:
+  - x86_64
+release_model:
+  - Stable
