@@ -1,0 +1,31 @@
+name: Qubes OS
+homepage: https://www.qubes-os.org/
+summary: Qubes OS is a security-oriented operating system.
+description: Qubes takes an approach called security by compartmentalization, which allows you to compartmentalize the various parts of your digital life into securely isolated compartments called qubes.
+getting_started: https://www.qubes-os.org/getting-started/
+download: https://www.qubes-os.org/downloads/
+about: https://www.qubes-os.org/intro/
+faq: https://www.qubes-os.org/faq/
+docs: https://www.qubes-os.org/doc/
+upgrade: https://www.qubes-os.org/doc/upgrade/
+git: https://github.com/QubesOS
+developers:
+  - name: Qubes OS Team
+    url: https://www.qubes-os.org/team/
+help: https://www.qubes-os.org/support/
+contribute: https://www.qubes-os.org/doc/contributing/
+donate: https://www.qubes-os.org/donate/
+based_on: Fedora
+installation:
+  - GUI
+latest_version: 4.0
+difficulty: Advanced
+package_manager:
+  - dnf
+  - qubes-dom0-update
+tags:
+  - desktop
+  - security
+  - privacy
+arch:
+  - x86_64
