@@ -1,0 +1,12 @@
+18.04.1:
+  Desktop:
+    size: 1.8G
+    url: http://releases.ubuntu.com/18.04.1/ubuntu-18.04.1-desktop-amd64.iso<Paste>
+  Server:
+    size: 812M
+    url: http://releases.ubuntu.com/18.04.1/ubuntu-18.04.1-live-server-amd64.iso
+18.04:
+  netboot:
+    sha1sum: http://archive.ubuntu.com/ubuntu/dists/bionic/main/installer-amd64/current/images/SHA1SUMS
+    size: 64M
+    url: http://archive.ubuntu.com/ubuntu/dists/bionic/main/installer-amd64/current/images/netboot/mini.iso

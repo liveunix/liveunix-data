@@ -1,0 +1,45 @@
+name: Ubuntu
+homepage: https://www.ubuntu.com/
+summary: Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things
+download: https://www.ubuntu.com/download/
+docs: https://help.ubuntu.com/
+wiki: https://help.ubuntu.com/community/CommunityHelpWiki
+upgrade: https://help.ubuntu.com/community/UpgradeNotes
+bugtracker: https://bugs.launchpad.net/ubuntu/
+issues: https://answers.launchpad.net/ubuntu
+contact: https://www.ubuntu.com/contact-us
+git: https://launchpad.net/ubuntu
+forum: https://ubuntuforums.org/
+mailing_lists: https://lists.ubuntu.com/
+blog: https://blog.ubuntu.com/
+developers:
+  - name: Canonical
+    url: https://canonical.com/
+  - name: Ubuntu community
+    url: https://community.ubuntu.com/
+help: https://askubuntu.com/
+contribute: https://wiki.ubuntu.com/ContributeToUbuntu
+based_on: debian
+  - GUI
+latest_version: 18.04.1
+difficulty: Beginner
+default_userspace: GNOME
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - apt
+arch:
+  - amd64
+  - i386
+  - arm64
+  - armhf
+  - ppc64el
+  - s390x
+release_model:
+  - Stable
+flavours:
+  - Desktop
+  - netboot
+  - Server
