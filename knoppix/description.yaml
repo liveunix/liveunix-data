@@ -1,0 +1,22 @@
+name: Knoppix
+homepage: http://www.knopper.net/knoppix/index-en.html
+summary: KNOPPIX is a bootable Live system on CD, DVD or USB flash drives.
+description: Consisting of a representative collection of GNU/Linux software, automatic hardware detection, and support for many graphics cards, sound cards, SCSI and USB devices and other peripherals, KNOPPIX can be used as a productive Linux system for the desktop, educational CD, rescue system, or adapted and used as a platform for commercial software product demos. It is not necessary to install anything on a hard disk. Due to on-the-fly decompression, the CD can have up to 2 GB of executable software installed on it (over 9GB on the DVD "Maxi" edition). 
+download: http://www.knopper.net/knoppix-mirrors/index-en.html
+about: http://www.knopper.net/knoppix-info/index-en.html
+forum: http://www.knoppix.net/forum/
+developers:
+  - name: Klaus Knopper
+    url: http://www.knopper.net/
+donate: http://www.knopper.net/pay/index-en.php?type=donation&item_name=KNOPPIX
+based_on: Debian
+installation:
+  - GUI
+  - Live
+latest_version: 8.2
+difficulty: Intermediate
+default_userspace: LXDE
+tags:
+  - recovery
+arch:
+  - x86_64

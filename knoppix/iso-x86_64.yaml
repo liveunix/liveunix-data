@@ -1,0 +1,5 @@
+8.2:
+  sha256sum: http://ftp.knoppix.nl/os/Linux/distr/knoppix-dvd/KNOPPIX_V8.2-2018-05-10-EN.iso.sha256
+  sha256sum_signature: http://ftp.knoppix.nl/os/Linux/distr/knoppix-dvd/KNOPPIX_V8.2-2018-05-10-EN.iso.sha256.asc
+  size: 4.4G
+  url: http://ftp.knoppix.nl/os/Linux/distr/knoppix-dvd/KNOPPIX_V8.2-2018-05-10-EN.iso
