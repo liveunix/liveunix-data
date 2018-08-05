@@ -51,7 +51,7 @@ donate: -
 # The operating system it was based on or forked
 based_on: -
 # Does it need to be installed from CLI or from GUI?
-# possible values: CLI or GUI in uppercase (required)
+# possible values: CLI, GUI or Live in uppercase (required)
 installation:
   - GUI
 # The last version according to the data in iso and stage3
