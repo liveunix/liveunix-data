@@ -1,0 +1,28 @@
+name: Xubuntu
+homepage: https://xubuntu.org/
+summary: Xubuntu is an elegant and easy to use operating system.
+download: https://xubuntu.org/download
+about: https://xubuntu.org/tour/
+contact: https://tails.boum.org/about/contact/
+help: https://xubuntu.org/help/
+contribute: https://xubuntu.org/contribute/
+donate: https://xubuntu.org/donations/
+based_on: Ubuntu
+installation:
+  - GUI
+latest_version: 18.04.1
+difficulty: Beginner
+default_userspace: XFCE
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - apt
+tags:
+  - desktop
+arch:
+  - amd64
+  - i386
+release_model:
+  - Stable

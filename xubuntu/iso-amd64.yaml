@@ -1,0 +1,5 @@
+18.04.1:
+  sha1sum: http://cdimages.ubuntu.com/xubuntu/releases/18.04/release/SHA1SUMS
+  sha256sum: http://cdimages.ubuntu.com/xubuntu/releases/18.04/release/SHA256SUMS
+  size: 1.3G
+  url: http://cdimages.ubuntu.com/xubuntu/releases/18.04/release/xubuntu-18.04.1-desktop-amd64.iso
