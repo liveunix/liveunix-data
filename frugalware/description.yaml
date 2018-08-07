@@ -1,0 +1,29 @@
+name: Frugalware
+homepage: https://frugalware.org/
+summary: Frugalware is a general purpose linux distribution, designed for intermediate users.
+download: https://frugalware.org/download
+faq: http://github.com/frugalware/frugalware-current/wiki/index.php/FAQ
+upgrade: https://frugalware.org/docs/stable/upgrade.html
+docs: https://frugalware.org/docs
+wiki: https://github.com/frugalware/frugalware-current/wiki
+bugtracker: https://github.com/frugalware/frugalware-current/issues
+git: http://github.com/frugalware
+packages: https://frugalware.org/packages
+mailing_lists: https://groups.google.com/forum/#!forum/frugalware
+news: https://frugalware.org/news
+contribute: https://frugalware.org/docs/stable/getting-involved.html
+developers:
+  - name: Frugalware Developers
+    url: https://frugalware.org/authors
+installation:
+  - GUI
+latest_version: 2.1
+difficulty: Intermediate
+tags:
+  - desktop
+arch:
+  - x86_64
+flavours:
+  - Basic
+  - GNOME
+  - Plasma

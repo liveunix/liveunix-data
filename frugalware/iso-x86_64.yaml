@@ -1,0 +1,13 @@
+2.1:
+  Basic:
+    sha1sum: ftp://ftp5.frugalware.org/mirror/ftp.frugalware.org/pub/frugalware/frugalware-2.1-iso/SHA1SUMS
+    size: 534M
+    url: ftp://ftp5.frugalware.org/mirror/ftp.frugalware.org/pub/frugalware/frugalware-2.1-iso/fvbe-2.1-basic-x86_64.iso
+  GNOME:
+    sha1sum: ftp://ftp5.frugalware.org/mirror/ftp.frugalware.org/pub/frugalware/frugalware-2.1-iso/SHA1SUMS
+    size: 937M
+    url: ftp://ftp5.frugalware.org/mirror/ftp.frugalware.org/pub/frugalware/frugalware-2.1-iso/fvbe-2.1-gnome-x86_64.iso
+  Plasma:
+    sha1sum: ftp://ftp5.frugalware.org/mirror/ftp.frugalware.org/pub/frugalware/frugalware-2.1-iso/SHA1SUMS
+    size: 1G
+    url: ftp://ftp5.frugalware.org/mirror/ftp.frugalware.org/pub/frugalware/frugalware-2.1-iso/fvbe-2.1-kde5-x86_64.iso
