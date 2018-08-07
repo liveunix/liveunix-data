@@ -1,0 +1,13 @@
+3:
+  Budgie:
+    sha256sum: https://stroblindustries.com/isos/Solus-3-Budgie.sha256sum
+    size: 1.2G
+    url: https://stroblindustries.com/isos/Solus-3-Budgie.iso
+  GNOME:
+    sha256sum: https://stroblindustries.com/isos/Solus-3-GNOME.sha256sum
+    size: 1.3G
+    url: https://stroblindustries.com/isos/Solus-3-GNOME.iso
+  MATE:
+    sha256sum: https://stroblindustries.com/isos/Solus-3-MATE.sha256sum
+    size: 1.3G
+    url: https://stroblindustries.com/isos/Solus-3-MATE.iso

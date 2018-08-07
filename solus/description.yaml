@@ -1,0 +1,29 @@
+name: Solus
+homepage: https://solus-project.com/
+summary: Solus is an operating system that is designed for home computing.
+download: https://solus-project.com/download
+about: https://solus-project.com/solus/about/
+bugtracker: https://dev.solus-project.com/
+forum: https://solus-project.com/forums/
+blog: https://solus-project.com/blog
+developers:
+  - name: Solus Project
+    url: https://solus-project.com/
+help: https://solus-project.com/help-center/home/
+contribute: https://solus-project.com/support/
+installation:
+  - GUI
+latest_version: 3
+difficulty: Beginner
+init:
+  - Systemd
+libc:
+  - Glibc
+tags:
+  - desktop
+arch:
+  - x86_64
+flavours:
+  - Budgie
+  - GNOME
+  - MATE
