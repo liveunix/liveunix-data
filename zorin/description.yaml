@@ -1,0 +1,31 @@
+name: Zorin OS
+homepage: https://zorinos.com/
+summary: Zorin OS is an alternative to Windows and macOS, designed to make your computer faster, more powerful and secure.
+getting_started: https://zorinos.com/help/
+download: https://zorinos.com/download/
+about: https://zorinos.com/about/
+forum: http://zoringroup.com/forum/
+blog: http://zoringroup.com/blog/
+developers:
+  - name: Zorin OS Team
+    url: https://zorinos.com/about/
+help: https://zorinos.com/help/zorin-premium-support/
+installation:
+  - GUI
+latest_version: 12.3
+based_on: Ubuntu
+difficulty: Beginner
+default_userspace: GNOME
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - apt
+tags:
+  - desktop
+arch:
+  - x86_64
+  - i386
+release_model:
+  - Stable
