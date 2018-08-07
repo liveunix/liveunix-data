@@ -1,0 +1,38 @@
+name: Fedora
+homepage: https://getfedora.org/
+summary: A polished, easy to use operating system for laptop and desktop computers.
+about: https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html
+docs: https://docs.fedoraproject.org/
+news: http://fedoramagazine.org/
+blog: http://fedoraplanet.org/
+developers:
+  - name: Fedora Project
+    url: https://fedoraproject.org/
+  - name: Red Hat
+    url: https://redhat.com/
+help: https://ask.fedoraproject.org/
+installation:
+  - GUI
+latest_version: 28
+difficulty: Beginner
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - yum
+tags:
+  - desktop
+arch:
+  - x86_64
+release_model:
+  - Rolling
+flavours:
+  - Cinnamon
+  - GNOME
+  - LXDE
+  - LXQT
+  - MATE-Compiz
+  - Plasma
+  - SOAS
+  - XFCE

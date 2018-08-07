@@ -1,0 +1,25 @@
+28:
+  Cinnamon:
+    size: 1.7G
+    url: https://download.fedoraproject.org/pub/fedora/linux/releases/28/Spins/x86_64/iso/Fedora-Cinnamon-Live-x86_64-28-1.1.iso
+  GNOME:
+    size: 1.7G
+    url: https://download.fedoraproject.org/pub/fedora/linux/releases/28/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-28-1.1.iso
+  LXDE:
+    size: 1.2G
+    url: https://download.fedoraproject.org/pub/fedora/linux/releases/28/Spins/x86_64/iso/Fedora-LXDE-Live-x86_64-28-1.1.iso
+  LXQT:
+    size: 1.2G
+    url: https://download.fedoraproject.org/pub/fedora/linux/releases/28/Spins/x86_64/iso/Fedora-LXQt-Live-x86_64-28-1.1.iso
+  MATE-Compiz:
+    size: 1.8G
+    url: https://download.fedoraproject.org/pub/fedora/linux/releases/28/Spins/x86_64/iso/Fedora-MATE_Compiz-Live-x86_64-28-1.1.iso
+  Plasma:
+    size: 1.8G
+    url: https://download.fedoraproject.org/pub/fedora/linux/releases/28/Spins/x86_64/iso/Fedora-KDE-Live-x86_64-28-1.1.iso
+  SOAS:
+    size: 919M
+    url: https://download.fedoraproject.org/pub/fedora/linux/releases/28/Spins/x86_64/iso/Fedora-SoaS-Live-x86_64-28-1.1.iso
+  XFCE:
+    size: 1.3G
+    url: https://download.fedoraproject.org/pub/fedora/linux/releases/28/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-28-1.1.iso
