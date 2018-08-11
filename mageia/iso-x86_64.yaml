@@ -1,0 +1,13 @@
+6:
+  GNOME:
+    md5sum: http://mageia.mirror.garr.it/mirrors/mageia/iso/6/Mageia-6-LiveDVD-GNOME-x86_64-DVD/Mageia-6-LiveDVD-GNOME-x86_64-DVD.iso.md5
+    size: 2G
+    url: https://mageia.mirror.garr.it/mirrors/mageia/iso/6/Mageia-6-LiveDVD-GNOME-x86_64-DVD/Mageia-6-LiveDVD-GNOME-x86_64-DVD.iso
+  Plasma:
+    md5sum: http://mageia.mirror.garr.it/mirrors/mageia/iso/6/Mageia-6-LiveDVD-Plasma-x86_64-DVD/Mageia-6-LiveDVD-Plasma-x86_64-DVD.iso.md5
+    size: 2.4G
+    url: http://mageia.mirror.garr.it/mirrors/mageia/iso/6/Mageia-6-LiveDVD-Plasma-x86_64-DVD/Mageia-6-LiveDVD-Plasma-x86_64-DVD.iso
+  XFCE:
+    md5sum: https://vodka.sublink.org/mageia/iso/6/Mageia-6-LiveDVD-Xfce-x86_64-DVD/Mageia-6-LiveDVD-Xfce-x86_64-DVD.iso.md5
+    size: 1.9G
+    url: https://vodka.sublink.org/mageia/iso/6/Mageia-6-LiveDVD-Xfce-x86_64-DVD/Mageia-6-LiveDVD-Xfce-x86_64-DVD.iso

@@ -1,0 +1,30 @@
+name: Mageia
+homepage: https://mageia.org/
+summary: Stable, secure operating system for desktop & server.
+download: https://www.mageia.org/en/downloads/
+about: https://www.mageia.org/en/about/
+upgrade: https://wiki.mageia.org/en/Mageia_6_Release_Notes#Upgrading_from_Mageia_5
+docs: https://www.mageia.org/en/doc/
+wiki: https://wiki.mageia.org/
+bugtracker: https://bugs.mageia.org/
+contact: https://www.mageia.org/en/contact/
+forum: https://forums.mageia.org/en/
+mailing_lists: https://wiki.mageia.org/en/Mailing_lists
+blog: https://blog.mageia.org/en/
+developers:
+  - name: Mageia Community
+    url: https://mageia.org/en/community
+help: https://www.mageia.org/en/support/
+contribute: https://www.mageia.org/en/contribute/
+donate: https://www.mageia.org/en/donate/
+based_on: Mandriva
+installation:
+  - GUI
+latest_version: 6
+difficulty: Intermediate
+arch:
+  - x86_64
+flavours:
+  - GNOME
+  - Plasma
+  - XFCE
