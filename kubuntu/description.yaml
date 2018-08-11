@@ -1,0 +1,30 @@
+name: Kubuntu
+homepage: https://kubuntu.org/
+summary: Kubuntu unites Ubuntu with KDE and the fabulous Plasma desktop, bringing you a full set of applications.
+download: Kubuntu unites Ubuntu with KDE and the fabulous Plasma desktop, bringing you a full set of applications.
+about: https://kubuntu.org/about-us/
+contact: https://kubuntu.org/contact-us/
+developers:
+  - name: Kubuntu Team
+    url: https://kubuntu.org/the-kubuntu-team/
+help: https://kubuntu.org/support/
+contribute: https://kubuntu.org/contribute-to-kubuntu/
+based_on: Ubuntu
+installation:
+  - GUI
+latest_version: 18.04.1
+difficulty: Beginner
+default_userspace: Plasma
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - apt
+tags:
+  - desktop
+arch:
+  - amd64
+  - i386
+release_model:
+  - Stable
