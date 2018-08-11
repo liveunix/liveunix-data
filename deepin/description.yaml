@@ -1,0 +1,29 @@
+name: Deepin
+homepage: https://www.deepin.org/en/
+summary: Deepin aims to provide an elegant, user-friendly and reliable operating system.
+download: https://www.deepin.org/en/download/
+wiki: https://wiki.deepin.org/
+forum: https://bbs.deepin.org/
+packages: http://packages.deepin.com/
+mailing_lists: https://www.deepin.org/en/developer-community/mailing-list/
+developers:
+  - name: Wuhan Deepin Technology Co., Ltd.
+    url: deepin.org
+based_on: Debian
+installation:
+  - GUI
+latest_version: 15.6
+difficulty: Beginner
+default_userspace: Deepin
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - apt
+tags:
+  - desktop
+arch:
+  - amd64
+release_model:
+  - Stable
