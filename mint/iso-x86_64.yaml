@@ -1,0 +1,13 @@
+19:
+  Cinnamon:
+    sha256sum: https://ftp.heanet.ie/mirrors/linuxmint.com/stable/19/sha256sum.txt
+    size: 1.8G
+    url: http://mirrors.evowise.com/linuxmint/stable/19/linuxmint-19-cinnamon-64bit-v2.iso
+  MATE:
+    sha256sum: https://ftp.heanet.ie/mirrors/linuxmint.com/stable/19/sha256sum.txt
+    size: 1.8G
+    url: http://mirrors.evowise.com/linuxmint/stable/19/linuxmint-19-mate-64bit-v2.iso
+  XFCE:
+    sha256sum: https://ftp.heanet.ie/mirrors/linuxmint.com/stable/19/sha256sum.txt
+    size: 1.8G
+    url: http://mirrors.evowise.com/linuxmint/stable/19/linuxmint-19-xfce-64bit-v2.iso

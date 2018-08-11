@@ -1,0 +1,37 @@
+name: Linux Mint
+homepage: https://linuxmint.com/
+summary: A modern, elegant and comfortable operating system which is both powerful and easy to use.
+download: https://linuxmint.com/download.php
+faq: https://linuxmint.com/faq.php
+about: https://linuxmint.com/about.php
+docs: https://linuxmint.com/documentation.php
+contact: https://linuxmint.com/contactus.php
+forum: http://forums.linuxmint.com/
+blog: http://blog.linuxmint.com/
+developers:
+  - name: Linux Mint Team
+    url: https://linuxmint.com/teams.php
+contribute: https://linuxmint.com/getinvolved.php
+donate: https://linuxmint.com/donors.php
+based_on: Ubuntu
+installation:
+  - GUI
+latest_version: 19
+difficulty: Beginner
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - apt
+tags:
+  - desktop
+arch:
+  - x86_64
+  - i386
+release_model:
+  - Stable
+flavours:
+  - Cinnamon
+  - MATE
+  - XFCE
