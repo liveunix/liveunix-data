@@ -1,0 +1,27 @@
+name: Pop!_OS
+homepage: https://system76.com/pop
+summary: A Linux distribution developed by the manufacturer system76 Inc.
+docs: http://pop.system76.com/docs
+git: https://github.com/pop-os
+developers:
+  - name: system 76 Inc.
+    url: http://system76.com/
+based_on: Ubuntu
+installation:
+  - GUI
+latest_version: 18.04
+difficulty: Beginner
+default_userspace: GNOME
+init:
+  - Systemd
+libc:
+  - Glibc
+package_manager:
+  - apt
+arch:
+  - amd64
+release_model:
+  - Stable
+flavours:
+  - intel/amd
+  - nvidia

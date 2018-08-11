@@ -1,0 +1,9 @@
+18.04:
+  intel/amd:
+    sha256sum: 9cd4eb21d34bb92d55facee687df535f1b4872e5c1e203e7e3323a35bb72faeb
+    size: 1.95G
+    url: https://d1vhcvzji58n1j.cloudfront.net/pop-os/iso/18.04/amd64/intel/28/pop-os_18.04_amd64_intel_28.iso
+  nvidia:
+    sha256sum: 0a4ce5305d7cddf3d3a43bbf6223e0bbc2a75a08ea6938df6451510c4c64c60c
+    size: 2.15G
+    url: https://d1vhcvzji58n1j.cloudfront.net/pop-os/iso/18.04/amd64/nvidia/28/pop-os_18.04_amd64_nvidia_28.iso
