@@ -1,0 +1,33 @@
+name: Trisquel
+homepage: https://trisquel.info/
+summary: Trisquel GNU/Linux is a fully free operating system for home users, small enterprises and educational centers.
+download: https://trisquel.info/en/download
+about: https://trisquel.info/en/wiki/about-trisquel
+faq: https://trisquel.info/en/faq
+docs: https://trisquel.info/en/wiki/documentation
+contact: https://trisquel.info/en/contact
+forum: https://trisquel.info/en/forum
+packages: http://packages.trisquel.info/
+mailing_lists: http://listas.trisquel.info/
+developers:
+  - name: The Trisquel Project
+    url: https://trisquel.info/
+help: https://trisquel.info/en/wiki/ask-help
+donate: https://trisquel.info/en/donate
+based_on: Debian
+installation:
+  - GUI
+latest_version: 8.0
+difficulty: Intermediate
+init:
+  - Systemd
+libc:
+  - Glibc
+arch:
+  - amd64
+release_model:
+  - Stable
+flavours:
+  - LXDE
+  - MATE
+  - Sugar

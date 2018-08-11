@@ -1,0 +1,13 @@
+8.0:
+  MATE:
+    md5sum: https://cdimage.trisquel.info/trisquel-images/trisquel_8.0_amd64.iso.md5
+    size: 2.5G
+    url: http://mirror.fsf.org/trisquel-images/trisquel_8.0_amd64.iso
+  LXDE:
+    md5sum: https://cdimage.trisquel.info/trisquel-images/trisquel-mini_8.0_amd64.iso.md5
+    size: 950M
+    url: http://mirror.fsf.org/trisquel-images/trisquel-mini_8.0_amd64.iso
+  Sugar:
+    md5sum: https://cdimage.trisquel.info/trisquel-images/trisquel-sugar_8.0_amd64.iso.md5
+    size: 760M
+    url: http://mirror.fsf.org/trisquel-images/trisquel-sugar_8.0_amd64.iso
