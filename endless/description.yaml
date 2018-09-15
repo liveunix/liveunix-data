@@ -1,0 +1,19 @@
+name: Endless OS
+homepage: https://endlessos.com/
+summary: Endless OS is a free, easy-to-use operating system preloaded with over 100 apps.
+based_on: Debian
+installation:
+  - GUI
+difficulty: Beginner
+tags:
+  - desktop
+release_model:
+  - Stable
+default_userspace:
+  - GNOME
+init:
+  - Systemd
+libc:
+  - Glibc
+arch:
+  - x86_64
