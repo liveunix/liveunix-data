@@ -1,0 +1,10 @@
+name: Slackware Linux
+homepage: http://www.slackware.com/
+summary: Slackware aims for design stability and simplicity.
+installation:
+  - CLI
+difficulty: Advanced
+tags:
+  - desktop
+arch:
+  - x86_64
