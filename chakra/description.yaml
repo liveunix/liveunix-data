@@ -1,0 +1,11 @@
+name: Chakra Linux
+homepage: https://www.chakralinux.org/
+summary: A community developed GNU/Linux distribution.
+based_on: Arch
+installation:
+  - GUI
+difficulty: Beginner
+tags:
+  - desktop
+arch:
+  - x86_64
