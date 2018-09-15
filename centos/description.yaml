@@ -1,0 +1,17 @@
+name: CentOS
+homepage: https://centos.org/
+summary: CentOS is a free of cost, enterprise-class Linux distribution with rock-solid stability.
+based_on: fedora
+installation:
+  - GUI
+difficulty: Advanced
+tags:
+  - enterprise
+  - server
+developers:
+  - name: The CentOS Project
+    url: https://centos.org/
+  - name: Red Hat
+    url: https://red-hat.com/
+arch:
+  - x86_64
