@@ -1,0 +1,15 @@
+name: Ubuntu MATE
+homepage: https://ubuntu-mate.org/
+summary: Ubuntu MATE is a stable, easy-to-use operating system with a configurable desktop environment.
+based_on: ubuntu
+latest_version: 18.04
+installation:
+  - GUI
+difficulty: Beginner
+developers:
+  - name: Ubuntu MATE Team
+    url: http://ubuntu-mate.org/team
+tags:
+  - desktop
+arch:
+  - x86_64
