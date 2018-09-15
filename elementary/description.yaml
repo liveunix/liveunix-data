@@ -1,0 +1,12 @@
+name: elementary OS
+homepage: https://elementary.io/
+installation:
+  - GUI
+difficulty: Beginner
+latest_version: 0.4
+default_userspace: Pantheon
+developers:
+  - name: elementary LLC.
+    url: https://elementary.io/
+arch:
+  - x86_64
