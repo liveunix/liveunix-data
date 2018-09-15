@@ -1,0 +1,12 @@
+name: Puppy Linux
+homepage: https://puppylinux.com/
+summary: Puppy Linux is a unique family of Linux distributions meant for the home-user computers.
+installation:
+  - Live
+difficulty: Intermediate
+latest_version: 7.5
+arch:
+  - i686
+  - x86_64
+tags:
+  - desktop
